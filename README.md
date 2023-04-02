@@ -36,7 +36,7 @@ y = 250;
 
 ```
 
-To immediately resolve an animation, use `skip()`:
+To immediately resolve all animations, just use `skip()`:
 
 ```
 animator.animate.x = 200;
